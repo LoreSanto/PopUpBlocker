@@ -46,4 +46,4 @@ You can customize the code to add a whitelist, popup counter, or notification sy
 
 ## Author
 
-Created with care by Lorenzo Feel free to fork, improve, or contribute!
+Created with care by LoreSanto Feel free to fork, improve, or contribute!
